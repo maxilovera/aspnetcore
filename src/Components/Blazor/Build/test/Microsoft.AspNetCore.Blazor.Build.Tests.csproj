@@ -45,6 +45,7 @@
     <HelixContent Include="..\testassets\**\*" />
     <HelixContent Include="$(RepoRoot)global.json" />
     <HelixContent Include="$(RepoRoot)eng\Versions.props" />
+    <HelixContent Include="..\src\ReferenceBlazorBuildFromSource.props" />
   </ItemGroup>
 
   <ItemGroup>
